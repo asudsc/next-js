@@ -11,6 +11,7 @@ const config: Config = {
       colors: {
         'form': 'var(--form-background)',
         'form-border': 'var(--form-border)',
+        'foreground': 'var(--foreground-rgb)',
       },
       backgroundImage: {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
